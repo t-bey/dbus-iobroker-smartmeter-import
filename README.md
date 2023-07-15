@@ -10,4 +10,5 @@ Finally, run ones the install.sh script.
 - Venus OS: Root Access https://www.victronenergy.com/live/ccgx:root_access   
 - services and their paths on Venus OS D-Bus https://github.com/victronenergy/venus/wiki/dbus#grid-and-genset-meter   
 - D-Bus API https://github.com/victronenergy/venus/wiki/dbus-api
+- Victron Energy Python library for D-Bus https://github.com/victronenergy/velib_python/
 - ioBroker.simple-api Adapter https://github.com/ioBroker/ioBroker.simple-api
